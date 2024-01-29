@@ -1,5 +1,5 @@
 @Sample
-Feature: Browserstack Sample App
+Feature: Sample App
 
   Scenario Outline: As a user, I can log into the secure area
 
